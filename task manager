@@ -1,0 +1,20 @@
+directly run using python3 task_managerapp.py
+
+--- Task Manager Menu ---
+1. Input Task
+2. Execute Task
+3. Remove Task
+4. Display Tasks
+5. Exit
+Enter your choice: 1
+Enter task name: Finish Assignment
+Task added successfully!
+
+--- Task Manager Menu ---
+1. Input Task
+2. Execute Task
+3. Remove Task
+4. Display Tasks
+5. Exit
+Enter your choice: 4
+Task ID: 1 | Name: Finish Assignment | Status: Pending
